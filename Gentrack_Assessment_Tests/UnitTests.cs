@@ -3,13 +3,15 @@ using System.Collections.Generic;
 
 namespace Gentrack_Assessment_Tests
 {
-    public class Tests
+    public class UnitTests
     {
+        public const string FILENAME = "/Users/lianatime/Desktop/testfile.xml";                             // update file path
+
         [Test]
         public void CSVIntervalData_Is_Found_In_XML_File()
         {
             // arrange
-            string xmlFilePath = "/Users/lianatime/Desktop/testfile.xml";
+            string xmlFilePath = FILENAME;
 
             // act
             var csvInterval = Gentrack_Assessment.CreateCSV.LoadXml(xmlFilePath);                           // Testing the LoadXml Function
