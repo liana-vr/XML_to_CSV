@@ -1,6 +1,6 @@
 # **XML to CSV**
 ## **My Solution Contains The Following:**
-### CreateCSV class containig four functions required to create the separate CSV files from the CSVIntervalData element.
+### A CreateCSV class containig four functions.
 
         1. LoadXml - This function takes the file path for the XML file as a string input and loads it using xmlDoc.
                      It isolates the CSVIntervalData element with xmlDoc.SelectSingleNode("//CSVIntervalData").InnerText.Trim()
