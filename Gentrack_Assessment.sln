@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.809.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gentrack_Assessment", "Gentrack_Assessment\Gentrack_Assessment.csproj", "{0C1E0231-280B-40A5-B29B-2E324D67C75B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gentrack_Assessment_Tests", "Gentrack_Assessment_Tests\Gentrack_Assessment_Tests.csproj", "{C8A1FA53-E8FF-4D81-B4DF-46394EAD0A60}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gentrack_Assessment_Tests", "Gentrack_Assessment_Tests\Gentrack_Assessment_Tests.csproj", "{8CE2BFA1-CCA0-433E-8F24-D3418B03E811}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +21,10 @@ Global
 		{C8A1FA53-E8FF-4D81-B4DF-46394EAD0A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8A1FA53-E8FF-4D81-B4DF-46394EAD0A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8A1FA53-E8FF-4D81-B4DF-46394EAD0A60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CE2BFA1-CCA0-433E-8F24-D3418B03E811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CE2BFA1-CCA0-433E-8F24-D3418B03E811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CE2BFA1-CCA0-433E-8F24-D3418B03E811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CE2BFA1-CCA0-433E-8F24-D3418B03E811}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
